@@ -1,0 +1,85 @@
+# Build results
+bin/
+obj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]og/
+
+# Visual Studio files
+.vs/
+*.dbmdl
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider IDE
+.idea/
+
+# ASP.NET Scaffolding
+ScaffoldingReadMe.txt
+
+# User-specific files
+*.userprefs
+*.rsuser
+
+# VS Code settings
+.vscode/
+
+# Test results
+[Tt]est[Rr]esult*/
+[Tt]est[Rr]esults/
+*.trx
+*.coverage
+*.coveragexml
+
+# NuGet packages
+*.nupkg
+*.snupkg
+packages/
+*.nuget.props
+*.nuget.targets
+
+# Azure
+ecf/
+AppPackages/
+BundleArtifacts/
+
+# Publish output
+*.publishsettings
+*.pubxml
+*.pubxml.user
+PublishProfiles/
+
+# Other cache / temp files
+*~ 
+*.swp
+*.tmp
+*.log
+*.tlog
+*.cache
+*.bak
+*.Backup
+*.mdf
+*.ldf
+
+# DotCover
+.idea/.dotCover
+
+# Resharper
+_ReSharper*/
+*.DotSettings.user
+
+# Dotnet generated files
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+# Optional: ignore secrets if using user-secrets
+secrets.json
+
+# Mac
+.DS_Store
+
+# Windows
+Thumbs.db
