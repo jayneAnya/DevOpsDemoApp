@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +31,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABsAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:32:32.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:32:28.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -35,13 +69,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ci.yml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.github\\workflows\\ci.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.github\\workflows\\ci.yml",
               "RelativeToolTip": ".github\\workflows\\ci.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-09-18T05:08:05.055Z",
               "EditorCaption": ""

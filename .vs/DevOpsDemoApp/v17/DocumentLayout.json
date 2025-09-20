@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
@@ -18,11 +34,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Dockerfile",
+              "RelativeDocumentMoniker": "Dockerfile",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Dockerfile",
+              "RelativeToolTip": "Dockerfile",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-09-20T06:48:13.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-20T06:46:04.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:32:32.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T06:32:28.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -35,13 +103,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "ci.yml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.github\\workflows\\ci.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.github\\workflows\\ci.yml",
               "RelativeToolTip": ".github\\workflows\\ci.yml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-09-18T05:08:05.055Z",
               "EditorCaption": ""
