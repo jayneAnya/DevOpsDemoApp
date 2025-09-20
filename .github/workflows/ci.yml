@@ -14,9 +14,24 @@ jobs:
           dotnet-version: '8.0.x'
       - run: dotnet build --configuration Release
       - run: dotnet test --no-build || echo "no tests"
-      - run: docker build -t <your-dockerhub-user>/devopsdemoapp:${{ github.sha }} .
+      - run: docker build -t tekbaddie/devopsdemoapp:${{ github.sha }} .
       - uses: docker/login-action@v2
         with:
           username: ${{ secrets.DOCKERHUB_USERNAME }}
           password: ${{ secrets.DOCKERHUB_TOKEN }}
-      - run: docker push <your-dockerhub-user>/devopsdemoapp:${{ github.sha }}
+      - run: docker push jayne1994/devopsdemoapp:${{ github.sha }}
+ 
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
+      - uses: appleboy/ssh-action@v0.1.6
+        with:
+          host: ${{ secrets.SERVER_IP }}
+          username: ${{ secrets.SERVER_USER }}
+          key: ${{ secrets.SSH_PRIVATE_KEY }}
+          script: |
+            docker pull jayne1994/devopsdemoapp:${{ github.sha }}
+            docker stop devopsdemo || true
+            docker rm devopsdemo || true
+            docker run -d -p 80:80 --name devopsdemo jayne1994/devopsdemoapp:${{ github.sha }}
