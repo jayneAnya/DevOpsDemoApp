@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
-      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:.github\\workflows\\ci.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|c:\\users\\hp\\source\\repos\\devopsdemoapp\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{AE7482DB-3DCE-548F-AECF-4FD6B5630677}|DevOpsDemoApp.csproj|solutionrelative:.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,11 +18,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": ".gitignore",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.gitignore",
               "RelativeDocumentMoniker": ".gitignore",
@@ -35,13 +35,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ci.yml",
               "DocumentMoniker": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.github\\workflows\\ci.yml",
               "RelativeDocumentMoniker": ".github\\workflows\\ci.yml",
               "ToolTip": "C:\\Users\\HP\\source\\repos\\DevOpsDemoApp\\.github\\workflows\\ci.yml",
               "RelativeToolTip": ".github\\workflows\\ci.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABAAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2025-09-18T05:08:05.055Z",
               "EditorCaption": ""
